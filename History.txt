@@ -1,0 +1,1089 @@
+1  vim
+    2  sudo apt install vim  
+    3  vim
+    4  sudo apt install vim 
+    5  vim
+    6  sudo apt install vim
+    7  sudo dpkg --configure -a
+    8  clear
+    9  sudo dpkg --configure -a
+   10  sudo apt install vim
+   11  vim
+   12  vim
+   13  touch file1.txt
+   14  vim file1.txt
+   15  cd /
+   16  ls
+   17  cd home 
+   18  ls
+   19  cd administor
+   20  cd..
+   21  cd ..
+   22  mkdir cloud
+   23  mkdir cloud 
+   24  cd /
+   25  ls
+   26  cd home
+   27  ls
+   28  cd administrator
+   29  mkdir cloud
+   30  cd cloud
+   31  dhinakar
+   32  grep "am" file.txt | wc -l
+   33  grep "mathivathani" file.txt
+   34  grep "mathivathani" file2.txt
+   35  cat /etc/ passwd
+   36  cat / etc / passwd
+   37  cd ..
+   38  cat /etc /passwd
+   39  cat / etc / passwd
+   40  cd /
+   41  ls
+   42  cd home
+   43  ls
+   44  cd administrator
+   45  ls
+   46  cd Desktop
+   47  cat /etc/passwd
+   48  cd Desktop
+   49  cat /etc/passwd
+   50  touch file.txt
+   51  passwd administrator
+   52  administrator@administrator-Lenovo-V130-14IKB:~$ 
+   53  clear
+   54  clear
+   55  jithinnnefqawqwdwdqwdwwwqdswrqdszwdszwqqqszdwdswqdswqdswqdasdwqdqedswqedeqqqqqqqqqzsqeeeeeeeeeezsqeeeeeeeeeeeeeeeedeqqqqqqqqqqqqqqdeqqqsqesqesqesqeeeeesqeeeeeeee
+   56  cleAr
+   57  clear
+   58  clear
+   59  clear
+   60  clesr
+   61  cleasr
+   62  clear
+   63  dhamothiran
+   64  sujith
+   65  kumar
+   66  clear
+   67  dhamothiran sujith susuila manickam
+   68  clear
+   69  cd /
+   70  sudo useradd pravin
+   71  sudo su pravin
+   72  sudo passwd pravin
+   73  clear
+   74  cd /
+   75  sudo user pravin
+   76  Admin@123
+   77  cd /
+   78  sudo user pravin
+   79  clear
+   80  cd /
+   81  sudo user pravin1
+   82  sudo useradd pravin1
+   83  clear
+   84  cd /
+   85  sudo useradd pravin
+   86  clear
+   87  cd /
+   88  sudo useradd praveen
+   89  cd /
+   90  sudo useradd praveen
+   91  cd /
+   92  sudo useradd praveen1
+   93  sudo su praveen1
+   94  sudo passwd praveen1
+   95  su praveen1
+   96  cd Desktop
+   97  ls
+   98  cd home
+   99  ls
+  100  ls
+  101  cd ..
+  102  ls
+  103  cd home
+  104  ls
+  105  cd administrator
+  106  ls
+  107  cd Desktop
+  108  ls
+  109  rn -r cloud
+  110  rm -r cloud
+  111  cat file1.txt
+  112  cat > file1.txt
+  113  ll file1.txt
+  114  ls -l file1.txt
+  115  su praveen
+  116  su praveen1
+  117  sudo userdel 
+  118  sudo userdel -l praveen
+  119  sudo userdel praveen1
+  120  nano
+  121  nano script.sh
+  122  cd /
+  123  clear
+  124  nano script.sh
+  125  ls
+  126  cd cloud
+  127  ls
+  128  nano scrpit.sh
+  129  ./ script.sh
+  130  chmod +x script.sh
+  131  ./ script.sh
+  132  ls
+  133  cd ..
+  134  chmod +x scrpit.sh
+  135  chmod +x script.sh
+  136  ./ script.sh
+  137  clear
+  138  chmod +x script.sh
+  139  ./ script.sh
+  140  nano
+  141  nano script1.sh
+  142  chmod +x script.sh
+  143  chmod +x script1.sh
+  144  ls
+  145  ./script1.sh
+  146  ./script.sh
+  147  nano script.sh
+  148  nano script1.sh
+  149  chmod script1.sh
+  150  chmpd +x script1.sh
+  151  chmod +x script1.sh
+  152  ./script1.sh
+  153  nano script1.sh
+  154  nano script1.sh
+  155  chmod +x script1.sh
+  156  ./script1.sh
+  157  nano script1.sh
+  158  chmod +x script1.sh
+  159  ./script1.sh
+  160  nano script1.sh
+  161  nano script2.sh
+  162  top
+  163  q
+  164  Q
+  165  q
+  166  top
+  167  top
+  168  q
+  169  top
+  170  q
+  171  nano script2.sh
+  172  chmod +x script2.sh
+  173  ./script2.sh
+  174  nano script2.sh
+  175  sudo apt update
+  176  sudo apt install git
+  177  sudo apt install git
+  178  sudo apt install git
+  179  cd /
+  180  ls
+  181  home
+  182  l
+  183  ls
+  184  cd home
+  185  ls
+  186   cd administrator
+  187  ls
+  188  cd Desktop
+  189  git --version
+  190  cd cloud
+  191  cd cloud
+  192  mkdir cloud
+  193  touch file1.txt
+  194  cd cloud
+  195  git init
+  196  git conft --list
+  197  git config --list
+  198  git  config --global user.name"pravin1"
+  199  git config --list
+  200  git config --golbal init.default branch main
+  201  git config --golbal init.default Branch main
+  202  git config --golbal init.defaultBranch main
+  203  get config global user.email"praveenumashankar15@gmail.com"
+  204  git config global user.email"praveenumashankar15@gmail.com"
+  205  git config --global user.email"praveenumashankar15@gmail.com"
+  206  git init config --list
+  207  git config --list
+  208  git config --global core.eol lf
+  209  cd /
+  210  ls
+  211  cd home
+  212  ls
+  213  cd adminstrator
+  214  ls
+  215  cd adminstrator
+  216  cd administrator
+  217  ls
+  218  cd Desktop
+  219  cd cloud
+  220  ls
+  221  git config --list
+  222  git config --global core.autocrlf input
+  223  git config --list
+  224  git config --global user.name "pravin1"
+  225  git config --list
+  226  git config --global user.email "praveenumashankar15@gmail.com"
+  227  git config --global init.defaultBranch main
+  228  git config --list
+  229  git config --global core.ignorecase true
+  230  git config --list
+  231  ls
+  232  https://github.com/Pra-vin77/Demo-cloud.git
+  233  rm *
+  234  git clone https://github.com/Pra-vin77/Demo-cloud.git
+  235  ls
+  236  cd Demo-cloud
+  237  touch file1.txt
+  238  ls
+  239  git add file.txt
+  240  git add file1.txt
+  241  cat
+  242  git commit -m "first commit"
+  243  git status
+  244  git add file1.txt
+  245  git status
+  246  git commit -m "second commit"
+  247  git stautus
+  248  git status
+  249  git push origin name
+  250  git push origin main
+  251  git remove -v
+  252  git remote -v
+  253  git set-url origin
+  254  git set-url origin "https://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"
+  255  git set-url remote "https://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@github.com"
+  256  git set-url origin "https://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@github.com/pravin1/Demo-cloud"
+  257  git remote set-url origin "https://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@github.com/pra-vin77/Demo-cloud"
+  258  git push origin main
+  259  git push origin
+  260  git status
+  261  git push origin main
+  262  git remote set-url origin "https://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@github.com/pra-vin77/demo-cloud"
+  263  git push origin main
+  264  git remote set-url origin "https://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@github.com/pra-vin77/democloud"
+  265  git push origin main
+  266  git remote set-url origin "https://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@github.com/pra-vin77/Demo-cloud"
+  267  git push origin main
+  268  git remote set-url origin "https://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@github.com/Pra-vin77/Demo-cloud"
+  269  git push origin main
+  270  clear
+  271  cd /
+  272  cd ..
+  273  cd /
+  274  ls
+  275  cd home
+  276  ls
+  277  cd administrator
+  278  ls
+  279  cd Desktop
+  280  mkdir git
+  281  cd git
+  282  cd init
+  283  git config --list
+  284  git config --global core.eol lf
+  285  touch file1.txt
+  286  cat > file1.txt
+  287  cat >test.txt
+  288  git commit -m"first comment"
+  289  git clone "https://https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Demo-cloud1"
+  290  git clone "https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Demo-cloud1"
+  291  https://github.com/Pra-vin77/Democloud-1.git"
+  292  git clone "https://github.com/Pra-vin77/Democloud-1.git"
+  293  cd Democloud-1
+  294  touch file1.txt
+  295  cat > file1.txt
+  296  git commit -m "first message"
+  297  git add file1.txt
+  298  git status
+  299  git commit -m "second message"
+  300  git status
+  301  get remote -v
+  302  git remote -v
+  303  get push origin main
+  304  git remote set-url origin "https://https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Democloud-1"
+  305  git remote set-url origin "https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Democloud-1"
+  306  cd /
+  307  ls
+  308  cd home
+  309  ls
+  310  cd administrator
+  311  ls
+  312  cd administrator
+  313  cd ..
+  314  cd administrator
+  315  cd Desktop
+  316  arul murugan
+  317  history
+  318  cd /
+  319  ls 
+  320  cd home
+  321  ls
+  322  Cd administrator
+  323  cd administrator
+  324  ls
+  325  cd Desktop
+  326  mkdir Project\
+  327  mkdir Project
+  328  mkdir Project1
+  329  cd Project1
+  330  mkdir cms
+  331  mkdir cms_server
+  332  cd cms_server
+  333  mkdir wordpress
+  334  cd wordpress
+  335  cd ..
+  336  mkdir joomla
+  337  cd joomla
+  338  cd ..
+  339  mkdir drupal
+  340  cd drupal
+  341  cd ..
+  342  cd wordpress
+  343  mkdir themes
+  344  mkdir plugin
+  345  mkdir upload
+  346  mkdir logs
+  347  cd ..
+  348  cd joomla
+  349  mkdir themes
+  350  mkdir plugin
+  351  mkdir upload
+  352  mkdir logs
+  353  cd ..
+  354  cd drupal
+  355  mkdir themes
+  356  mkdir plugin
+  357  mkdir upload
+  358  mkdir logs
+  359  cd ..
+  360  cd wordpress
+  361  cd upload
+  362  touch image.txt
+  363  cd ..
+  364  cd ..
+  365  cd wordpress
+  366  cd upload
+  367  mv image.txt > joomla
+  368  pwd
+  369  mv /home/administrator/Desktop/Project1/cms_server/wordpress/upload/image.txt /home/administrator/Desktop/Project1/cms_server/joomla/upload/image.txt
+  370  cd ..
+  371  cd ..
+  372  cd drupal
+  373  cd piugin
+  374  cd plugin
+  375  touch plugin_old.zip
+  376  mv plugin_old.zip pludin_update.zip
+  377  cd ..
+  378  cd ..
+  379  ls
+  380  cd drupal
+  381  ls
+  382  cd ..
+  383  cd joomla 
+  384  ls
+  385  cd ..
+  386  cd wordpress
+  387  ls
+  388  cd ..
+  389  touch db_config.php
+  390  ls -l
+  391  chmod 777 db_config.php
+  392  chmod 777 drupal
+  393  chmod 777 joomla 
+  394  chmod 777 wordpress
+  395  ls -l
+  396  cd wordpress
+  397  mkdir upload
+  398  mkdir upload_backup
+  399  cd ..
+  400  cd wordpress
+  401  cp upload upload_backup
+  402  cp -r upload upload_backup
+  403  ls
+  404  cd ..
+  405  cd joomla
+  406  cd plugin
+  407  touch file.txt
+  408  cd ..
+  409  cd ..
+  410  pwd
+  411  cd joomla
+  412  cd plugin
+  413  pwd
+  414  del /home/administrator/Desktop/Project1/cms_server/joomla/plugin/file.txt
+  415  file.txt del
+  416  rm -r file.txt
+  417  ls
+  418  cd ..
+  419  cd ..
+  420  ls
+  421  cd drupal
+  422  cd
+  423  ls
+  424  cd Desktop
+  425  ls
+  426  Project1
+  427  cd Project1
+  428  ls
+  429  cd cms_server
+  430  ls
+  431  cd drupal
+  432  ls
+  433  cd theme
+  434  cd themes
+  435  touch test.txt
+  436  rm -r test.txt
+  437  ls
+  438  cd ..
+  439  cd ..
+  440  cd wordpress
+  441  ls
+  442  cd upload
+  443  touch image1.jpg
+  444  touch image2.jpg
+  445  touch image3.jpg
+  446  touch image5.jpg
+  447  touch image6.jpg
+  448  touch image7.jpg
+  449  touch image8.jpg
+  450  touch image9.jpg
+  451  touch image10.jpg
+  452  cd ..
+  453  cd ..
+  454   history
+  455  history
+administrator@administrator-Lenovo-V130-14IKB:~$ top
+
+top - 09:49:25 up 13 min,  1 user,  load average: 0.18, 0.58, 0.62
+Tasks: 227 total,   1 running, 226 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  1.8 us,  0.6 sy,  0.0 ni, 97.6 id,  0.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3647.6 total,    378.3 free,   1254.5 used,   2014.8 buff/cache
+MiB Swap:   7720.0 total,   7720.0 free,      0.0 used.   1817.7 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                              
+   2065 adminis+  20   0 2669124  27936  22784 S   0.0   0.7   0:00.09 gjs                                                                                                                                  
+   2086 adminis+  20   0  623804  13824  11776 S   0.0   0.4   0:00.08 xdg-desktop-por                                                                                                                      
+   2104 adminis+  20   0  663056  29048  20904 S   0.0   0.8   0:00.21 xdg-desktop-por                                                                                                                      
+   2118 adminis+  20   0 2927376  65748  48896 S   0.0   1.8   0:00.69 gjs                                                                                                                                  
+   2135 adminis+  20   0  344516  25600  18432 S   0.0   0.7   0:00.14 xdg-desktop-por                                                                                                                      
+   2183 adminis+  20   0  162944   6400   5888 S   0.0   0.2   0:00.00 gvfsd-metadata                                                                                                                       
+   2220 root      20   0  394380  32724  27092 S   0.0   0.9   0:00.50 fwupd                                                                                                                                
+   2779 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker/0:4-cgroup_destroy                                                                                                           
+   3390 adminis+  20   0  494080  29808  22128 S   0.0   0.8   0:00.15 update-notifier                                                                                                                      
+   3547 adminis+  20   0   10236   4096   3584 S   0.0   0.1   0:00.00 bash                                                                                                                                 
+   3562 adminis+  20   0   32.7g 226464 181204 S   0.0   6.1   0:08.41 chrome                                                                                                                               
+   3568 adminis+  20   0    8512   1920   1920 S   0.0   0.1   0:00.00 cat                                                                                                                                  
+   3569 adminis+  20   0    8512   1920   1920 S   0.0   0.1   0:00.00 cat                                                                                                                                  
+   3571 adminis+  20   0   32.0g   3456   3200 S   0.0   0.1   0:00.00 chrome_crashpad                                                                                                                      
+   3573 adminis+  20   0   32.0g   3072   2816 S   0.0   0.1   0:00.00 chrome_crashpad                                                                                                                      
+   3579 adminis+  20   0   32.4g  57600  45568 S   0.0   1.5   0:00.03 chrome                                                                                                                               
+   3580 adminis+  20   0   32.4g  57344  45440 S   0.0   1.5   0:00.02 chrome                                                                                                                               
+   3582 adminis+  20   0   32.4g  15892   3840 S   0.0   0.4   0:00.03 chrome                                                                                                                               
+   3593 adminis+  20   0  674984  88176  56700 S   0.0   2.4   0:02.10 Xwayland                                                                                                                             
+   3607 adminis+  20   0  827696  80948  62076 S   0.0   2.2   0:00.20 gsd-xsettings                                                                                                                        
+   3638 adminis+  20   0  194168  24620  17784 S   0.0   0.7   0:00.13 ibus-x11                                                                                                                             
+   3656 adminis+  20   0   32.8g 164624 115368 S   0.0   4.4   0:06.16 chrome                                                                                                                               
+   3659 adminis+  20   0   32.3g 110692  93860 S   0.0   3.0   0:01.12 chrome                                                                                                                               
+   3668 adminis+  20   0   32.4g  50396  37120 S   0.0   1.3   0:00.04 chrome                                                                                                                               
+   3835 adminis+  20   0 1132.0g 148224 111300 S   0.0   4.0   0:01.53 chrome                                                                                                                               
+   3895 adminis+  20   0 1134.1g 207588 119720 S   0.0   5.6   0:16.94 chrome                                                                                                                               
+   3928 adminis+  20   0 1132.0g  64848  49408 S   0.0   1.7   0:00.02 chrome                                                                                                                               
+   4016 root      20   0       0      0      0 I   0.0   0.0   0:00.07 kworker/u8:1-events_unbound                                                                                                          
+   4099 root      20   0       0      0      0 I   0.0   0.0   0:00.25 kworker/1:0-events                                                                                                                   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+top - 09:49:46 up 13 min,  1 user,  load average: 0.26, 0.56, 0.62
+Tasks: 228 total,   1 running, 227 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.3 us,  0.2 sy,  0.0 ni, 98.5 id,  1.0 wa,  0.0 hi,  0.0 si,  0.0 st
+MiB Mem :   3647.6 total,    385.7 free,   1259.9 used,   2002.0 buff/cache
+MiB Swap:   7720.0 total,   7720.0 free,      0.0 used.   1825.2 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND                                                                                                                              
+   1849 adminis+  20   0  342360  14976  13056 S   0.0   0.4   0:00.02 gsd-printer                                                                                                                          
+   1858 adminis+  20   0  237260   7296   6784 S   0.0   0.2   0:00.02 ibus-portal                                                                                                                          
+   1888 adminis+  20   0   39128  11904  10496 S   0.0   0.3   0:00.07 snapd-desktop-i                                                                                                                      
+   1952 adminis+  20   0  431956  30228  21632 S   0.0   0.8   0:00.23 snapd-desktop-i                                                                                                                      
+   1973 adminis+  20   0  975856 235328  53236 S   0.0   6.3   0:06.65 snap-store                                                                                                                           
+   2010 adminis+  39  19  648364  38336  22908 S   0.0   1.0   0:00.44 tracker-miner-f                                                                                                                      
+   2065 adminis+  20   0 2669124  27936  22784 S   0.0   0.7   0:00.09 gjs                                                                                                                                  
+   2086 adminis+  20   0  623804  13824  11776 S   0.0   0.4   0:00.08 xdg-desktop-por                                                                                                                      
+   2104 adminis+  20   0  663056  29048  20904 S   0.0   0.8   0:00.21 xdg-desktop-por                                                                                                                      
+   2118 adminis+  20   0 2927376  65748  48896 S   0.0   1.8   0:00.69 gjs                                                                                                                                  
+   2135 adminis+  20   0  344516  25600  18432 S   0.0   0.7   0:00.14 xdg-desktop-por                                                                                                                      
+   2183 adminis+  20   0  162944   6400   5888 S   0.0   0.2   0:00.00 gvfsd-metadata                                                                                                                       
+   2220 root      20   0  394380  32724  27092 S   0.0   0.9   0:00.50 fwupd                                                                                                                                
+   2779 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker/0:4-cgroup_destroy                                                                                                           
+   3390 adminis+  20   0  494080  29808  22128 S   0.0   0.8   0:00.15 update-notifier                                                                                                                      
+   3547 adminis+  20   0   10236   4096   3584 S   0.0   0.1   0:00.00 bash                                                                                                                                 
+   3562 adminis+  20   0   32.7g 226208 181204 S   0.0   6.1   0:08.43 chrome                                                                                                                               
+   3568 adminis+  20   0    8512   1920   1920 S   0.0   0.1   0:00.00 cat                                                                                                                                  
+   3569 adminis+  20   0    8512   1920   1920 S   0.0   0.1   0:00.00 cat                                                                                                                                  
+   3571 adminis+  20   0   32.0g   3456   3200 S   0.0   0.1   0:00.00 chrome_crashpad                                                                                                                      
+   3573 adminis+  20   0   32.0g   3072   2816 S   0.0   0.1   0:00.00 chrome_crashpad                                                                                                                      
+   3579 adminis+  20   0   32.4g  57600  45568 S   0.0   1.5   0:00.03 chrome                                                                                                                               
+   3580 adminis+  20   0   32.4g  57344  45440 S   0.0   1.5   0:00.02 chrome                                                                                                                               
+   3582 adminis+  20   0   32.4g  15892   3840 S   0.0   0.4   0:00.03 chrome                                                                                                                               
+   3593 adminis+  20   0  674984  88176  56700 S   0.0   2.4   0:02.10 Xwayland                                                                                                                             
+   3607 adminis+  20   0  827696  80948  62076 S   0.0   2.2   0:00.20 gsd-xsettings                                                                                                                        
+   3638 adminis+  20   0  194168  24620  17784 S   0.0   0.7   0:00.13 ibus-x11                                                                                                                             
+   3656 adminis+  20   0   32.7g 164460 115368 S   0.0   4.4   0:06.16 chrome                                                                                                                               
+   3659 adminis+  20   0   32.3g 110692  93860 S   0.0   3.0   0:01.12 chrome                                                                                                                               
+   3668 adminis+  20   0   32.4g  50396  37120 S   0.0   1.3   0:00.04 chrome                                                                                                                               
+   3835 adminis+  20   0 1132.0g 148224 111300 S   0.0   4.0   0:01.53 chrome                                                                                                                               
+   3895 adminis+  20   0 1134.1g 207588 119720 S   0.0   5.6   0:16.95 chrome                                                                                                                               
+   3928 adminis+  20   0 1132.0g  64848  49408 S   0.0   1.7   0:00.02 chrome                                                                                                                               
+   4099 root      20   0       0      0      0 I   0.0   0.0   0:00.27 kworker/1:0-events                                                                                                                   
+   4108 root      20   0       0      0      0 I   0.0   0.0   0:00.00 kworker/1:1                                                                                                                          
+
+
+
+
+
+
+
+
+
+
+
+
+
+administrator@administrator-Lenovo-V130-14IKB:~$ cd /
+administrator@administrator-Lenovo-V130-14IKB:/$ ls
+bin  boot  cdrom  dev  etc  home  lib  lib32  lib64  libx32  lost+found  media	mnt  opt  proc	root  run  sbin  snap  srv  sys  tmp  usr  var
+administrator@administrator-Lenovo-V130-14IKB:/$ cd home
+administrator@administrator-Lenovo-V130-14IKB:/home$ ls
+administrator  lost+found  skacas
+administrator@administrator-Lenovo-V130-14IKB:/home$ cd administrator
+administrator@administrator-Lenovo-V130-14IKB:~$ ls
+ a.out	 Desktop     Downloads	 file2.txt   GFG.class	   google-chrome-stable_current_amd64.deb   Music	     Pictures   script1.sh	  script2.sh	   snap         Templates
+ cloud	 Documents   file1.txt	 file.txt   'git id.txt'   HelloWorld.class			    nano.3531.save   Public     script1.sh.save   script.sh.save  'SUJITH!!M'   Videos
+administrator@administrator-Lenovo-V130-14IKB:~$ cd Desktop
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop$ ls
+cloud  file1.txt  file.txt  git  Project  Project1
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop$ Project1
+Project1: command not found
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop$ cd Project1
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1$ ls
+cms_server
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1$ cd cms_server
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ ls
+db_config.php  drupal  joomla  wordpress
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ cd wordpress
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server/wordpress$ touch index.php
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server/wordpress$ ll index.php
+ll: command not found
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server/wordpress$ ls -ld index.php
+-rw-rw-r-- 1 administrator administrator 0 Dec 17 09:55 index.php
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server/wordpress$ chmod 777 index.php
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server/wordpress$ vim
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server/wordpress$ cd ..
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ toch wp-config.ph
+Command 'toch' not found, did you mean:
+  command 'loch' from deb therion-viewer (6.0.5-1)
+  command 'touch' from deb coreutils (8.32-4.1ubuntu1.2)
+Try: sudo apt install <deb name>
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ touch wp-config.ph
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ ls
+db_config.php  drupal  joomla  wordpress  wp-config.ph
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ history
+    1  vim
+    2  sudo apt install vim  
+    3  vim
+    4  sudo apt install vim 
+    5  vim
+    6  sudo apt install vim
+    7  sudo dpkg --configure -a
+    8  clear
+    9  sudo dpkg --configure -a
+   10  sudo apt install vim
+   11  vim
+   12  vim
+   13  touch file1.txt
+   14  vim file1.txt
+   15  cd /
+   16  ls
+   17  cd home 
+   18  ls
+   19  cd administor
+   20  cd..
+   21  cd ..
+   22  mkdir cloud
+   23  mkdir cloud 
+   24  cd /
+   25  ls
+   26  cd home
+   27  ls
+   28  cd administrator
+   29  mkdir cloud
+   30  cd cloud
+   31  dhinakar
+   32  grep "am" file.txt | wc -l
+   33  grep "mathivathani" file.txt
+   34  grep "mathivathani" file2.txt
+   35  cat /etc/ passwd
+   36  cat / etc / passwd
+   37  cd ..
+   38  cat /etc /passwd
+   39  cat / etc / passwd
+   40  cd /
+   41  ls
+   42  cd home
+   43  ls
+   44  cd administrator
+   45  ls
+   46  cd Desktop
+   47  cat /etc/passwd
+   48  cd Desktop
+   49  cat /etc/passwd
+   50  touch file.txt
+   51  passwd administrator
+   52  administrator@administrator-Lenovo-V130-14IKB:~$ 
+   53  clear
+   54  clear
+   55  jithinnnefqawqwdwdqwdwwwqdswrqdszwdszwqqqszdwdswqdswqdswqdasdwqdqedswqedeqqqqqqqqqzsqeeeeeeeeeezsqeeeeeeeeeeeeeeeedeqqqqqqqqqqqqqqdeqqqsqesqesqesqeeeeesqeeeeeeee
+   56  cleAr
+   57  clear
+   58  clear
+   59  clear
+   60  clesr
+   61  cleasr
+   62  clear
+   63  dhamothiran
+   64  sujith
+   65  kumar
+   66  clear
+   67  dhamothiran sujith susuila manickam
+   68  clear
+   69  cd /
+   70  sudo useradd pravin
+   71  sudo su pravin
+   72  sudo passwd pravin
+   73  clear
+   74  cd /
+   75  sudo user pravin
+   76  Admin@123
+   77  cd /
+   78  sudo user pravin
+   79  clear
+   80  cd /
+   81  sudo user pravin1
+   82  sudo useradd pravin1
+   83  clear
+   84  cd /
+   85  sudo useradd pravin
+   86  clear
+   87  cd /
+   88  sudo useradd praveen
+   89  cd /
+   90  sudo useradd praveen
+   91  cd /
+   92  sudo useradd praveen1
+   93  sudo su praveen1
+   94  sudo passwd praveen1
+   95  su praveen1
+   96  cd Desktop
+   97  ls
+   98  cd home
+   99  ls
+  100  ls
+  101  cd ..
+  102  ls
+  103  cd home
+  104  ls
+  105  cd administrator
+  106  ls
+  107  cd Desktop
+  108  ls
+  109  rn -r cloud
+  110  rm -r cloud
+  111  cat file1.txt
+  112  cat > file1.txt
+  113  ll file1.txt
+  114  ls -l file1.txt
+  115  su praveen
+  116  su praveen1
+  117  sudo userdel 
+  118  sudo userdel -l praveen
+  119  sudo userdel praveen1
+  120  nano
+  121  nano script.sh
+  122  cd /
+  123  clear
+  124  nano script.sh
+  125  ls
+  126  cd cloud
+  127  ls
+  128  nano scrpit.sh
+  129  ./ script.sh
+  130  chmod +x script.sh
+  131  ./ script.sh
+  132  ls
+  133  cd ..
+  134  chmod +x scrpit.sh
+  135  chmod +x script.sh
+  136  ./ script.sh
+  137  clear
+  138  chmod +x script.sh
+  139  ./ script.sh
+  140  nano
+  141  nano script1.sh
+  142  chmod +x script.sh
+  143  chmod +x script1.sh
+  144  ls
+  145  ./script1.sh
+  146  ./script.sh
+  147  nano script.sh
+  148  nano script1.sh
+  149  chmod script1.sh
+  150  chmpd +x script1.sh
+  151  chmod +x script1.sh
+  152  ./script1.sh
+  153  nano script1.sh
+  154  nano script1.sh
+  155  chmod +x script1.sh
+  156  ./script1.sh
+  157  nano script1.sh
+  158  chmod +x script1.sh
+  159  ./script1.sh
+  160  nano script1.sh
+  161  nano script2.sh
+  162  top
+  163  q
+  164  Q
+  165  q
+  166  top
+  167  top
+  168  q
+  169  top
+  170  q
+  171  nano script2.sh
+  172  chmod +x script2.sh
+  173  ./script2.sh
+  174  nano script2.sh
+  175  sudo apt update
+  176  sudo apt install git
+  177  sudo apt install git
+  178  sudo apt install git
+  179  cd /
+  180  ls
+  181  home
+  182  l
+  183  ls
+  184  cd home
+  185  ls
+  186   cd administrator
+  187  ls
+  188  cd Desktop
+  189  git --version
+  190  cd cloud
+  191  cd cloud
+  192  mkdir cloud
+  193  touch file1.txt
+  194  cd cloud
+  195  git init
+  196  git conft --list
+  197  git config --list
+  198  git  config --global user.name"pravin1"
+  199  git config --list
+  200  git config --golbal init.default branch main
+  201  git config --golbal init.default Branch main
+  202  git config --golbal init.defaultBranch main
+  203  get config global user.email"praveenumashankar15@gmail.com"
+  204  git config global user.email"praveenumashankar15@gmail.com"
+  205  git config --global user.email"praveenumashankar15@gmail.com"
+  206  git init config --list
+  207  git config --list
+  208  git config --global core.eol lf
+  209  cd /
+  210  ls
+  211  cd home
+  212  ls
+  213  cd adminstrator
+  214  ls
+  215  cd adminstrator
+  216  cd administrator
+  217  ls
+  218  cd Desktop
+  219  cd cloud
+  220  ls
+  221  git config --list
+  222  git config --global core.autocrlf input
+  223  git config --list
+  224  git config --global user.name "pravin1"
+  225  git config --list
+  226  git config --global user.email "praveenumashankar15@gmail.com"
+  227  git config --global init.defaultBranch main
+  228  git config --list
+  229  git config --global core.ignorecase true
+  230  git config --list
+  231  ls
+  232  https://github.com/Pra-vin77/Demo-cloud.git
+  233  rm *
+  234  git clone https://github.com/Pra-vin77/Demo-cloud.git
+  235  ls
+  236  cd Demo-cloud
+  237  touch file1.txt
+  238  ls
+  239  git add file.txt
+  240  git add file1.txt
+  241  cat
+  242  git commit -m "first commit"
+  243  git status
+  244  git add file1.txt
+  245  git status
+  246  git commit -m "second commit"
+  247  git stautus
+  248  git status
+  249  git push origin name
+  250  git push origin main
+  251  git remove -v
+  252  git remote -v
+  253  git set-url origin
+  254  git set-url origin "https://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"
+  255  git set-url remote "https://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@github.com"
+  256  git set-url origin "https://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@github.com/pravin1/Demo-cloud"
+  257  git remote set-url origin "https://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@github.com/pra-vin77/Demo-cloud"
+  258  git push origin main
+  259  git push origin
+  260  git status
+  261  git push origin main
+  262  git remote set-url origin "https://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@github.com/pra-vin77/demo-cloud"
+  263  git push origin main
+  264  git remote set-url origin "https://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@github.com/pra-vin77/democloud"
+  265  git push origin main
+  266  git remote set-url origin "https://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@github.com/pra-vin77/Demo-cloud"
+  267  git push origin main
+  268  git remote set-url origin "https://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@github.com/Pra-vin77/Demo-cloud"
+  269  git push origin main
+  270  clear
+  271  cd /
+  272  cd ..
+  273  cd /
+  274  ls
+  275  cd home
+  276  ls
+  277  cd administrator
+  278  ls
+  279  cd Desktop
+  280  mkdir git
+  281  cd git
+  282  cd init
+  283  git config --list
+  284  git config --global core.eol lf
+  285  touch file1.txt
+  286  cat > file1.txt
+  287  cat >test.txt
+  288  git commit -m"first comment"
+  289  git clone "https://https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Demo-cloud1"
+  290  git clone "https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Demo-cloud1"
+  291  https://github.com/Pra-vin77/Democloud-1.git"
+  292  git clone "https://github.com/Pra-vin77/Democloud-1.git"
+  293  cd Democloud-1
+  294  touch file1.txt
+  295  cat > file1.txt
+  296  git commit -m "first message"
+  297  git add file1.txt
+  298  git status
+  299  git commit -m "second message"
+  300  git status
+  301  get remote -v
+  302  git remote -v
+  303  get push origin main
+  304  git remote set-url origin "https://https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Democloud-1"
+  305  git remote set-url origin "https://github.com/Pra-vin77/Democloud-1.git@github.com/Pra-vin77/Democloud-1"
+  306  cd /
+  307  ls
+  308  cd home
+  309  ls
+  310  cd administrator
+  311  ls
+  312  cd administrator
+  313  cd ..
+  314  cd administrator
+  315  cd Desktop
+  316  arul murugan
+  317  history
+  318  cd /
+  319  ls 
+  320  cd home
+  321  ls
+  322  Cd administrator
+  323  cd administrator
+  324  ls
+  325  cd Desktop
+  326  mkdir Project\
+  327  mkdir Project
+  328  mkdir Project1
+  329  cd Project1
+  330  mkdir cms
+  331  mkdir cms_server
+  332  cd cms_server
+  333  mkdir wordpress
+  334  cd wordpress
+  335  cd ..
+  336  mkdir joomla
+  337  cd joomla
+  338  cd ..
+  339  mkdir drupal
+  340  cd drupal
+  341  cd ..
+  342  cd wordpress
+  343  mkdir themes
+  344  mkdir plugin
+  345  mkdir upload
+  346  mkdir logs
+  347  cd ..
+  348  cd joomla
+  349  mkdir themes
+  350  mkdir plugin
+  351  mkdir upload
+  352  mkdir logs
+  353  cd ..
+  354  cd drupal
+  355  mkdir themes
+  356  mkdir plugin
+  357  mkdir upload
+  358  mkdir logs
+  359  cd ..
+  360  cd wordpress
+  361  cd upload
+  362  touch image.txt
+  363  cd ..
+  364  cd ..
+  365  cd wordpress
+  366  cd upload
+  367  mv image.txt > joomla
+  368  pwd
+  369  mv /home/administrator/Desktop/Project1/cms_server/wordpress/upload/image.txt /home/administrator/Desktop/Project1/cms_server/joomla/upload/image.txt
+  370  cd ..
+  371  cd ..
+  372  cd drupal
+  373  cd piugin
+  374  cd plugin
+  375  touch plugin_old.zip
+  376  mv plugin_old.zip pludin_update.zip
+  377  cd ..
+  378  cd ..
+  379  ls
+  380  cd drupal
+  381  ls
+  382  cd ..
+  383  cd joomla 
+  384  ls
+  385  cd ..
+  386  cd wordpress
+  387  ls
+  388  cd ..
+  389  touch db_config.php
+  390  ls -l
+  391  chmod 777 db_config.php
+  392  chmod 777 drupal
+  393  chmod 777 joomla 
+  394  chmod 777 wordpress
+  395  ls -l
+  396  cd wordpress
+  397  mkdir upload
+  398  mkdir upload_backup
+  399  cd ..
+  400  cd wordpress
+  401  cp upload upload_backup
+  402  cp -r upload upload_backup
+  403  ls
+  404  cd ..
+  405  cd joomla
+  406  cd plugin
+  407  touch file.txt
+  408  cd ..
+  409  cd ..
+  410  pwd
+  411  cd joomla
+  412  cd plugin
+  413  pwd
+  414  del /home/administrator/Desktop/Project1/cms_server/joomla/plugin/file.txt
+  415  file.txt del
+  416  rm -r file.txt
+  417  ls
+  418  cd ..
+  419  cd ..
+  420  ls
+  421  cd drupal
+  422  cd
+  423  ls
+  424  cd Desktop
+  425  ls
+  426  Project1
+  427  cd Project1
+  428  ls
+  429  cd cms_server
+  430  ls
+  431  cd drupal
+  432  ls
+  433  cd theme
+  434  cd themes
+  435  touch test.txt
+  436  rm -r test.txt
+  437  ls
+  438  cd ..
+  439  cd ..
+  440  cd wordpress
+  441  ls
+  442  cd upload
+  443  touch image1.jpg
+  444  touch image2.jpg
+  445  touch image3.jpg
+  446  touch image5.jpg
+  447  touch image6.jpg
+  448  touch image7.jpg
+  449  touch image8.jpg
+  450  touch image9.jpg
+  451  touch image10.jpg
+  452  cd ..
+  453  cd ..
+  454   history
+  455  history
+  456  top
+  457  cd /
+  458  ls
+  459  cd home
+  460  ls
+  461  cd administrator
+  462  ls
+  463  cd Desktop
+  464  ls
+  465  Project1
+  466  cd Project1
+  467  ls
+  468  cd cms_server
+  469  ls
+  470  cd wordpress
+  471  touch index.php
+  472  ll index.php
+  473  ls -ld index.php
+  474  chmod 777 index.php
+  475  vim
+  476  cd ..
+  477  toch wp-config.ph
+  478  touch wp-config.ph
+  479  ls
+  480  history
+administrator@administrator-Lenovo-V130-14IKB:~/Desktop/Project1/cms_server$ history
+
+
